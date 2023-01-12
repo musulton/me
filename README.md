@@ -1,5 +1,4 @@
-## Hello 👋, I'm Muhammad Sulton!  
-  
+## Hello 👋, I'm Muhammad Sulton!
 
 <a href="https://github.com/musulton" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,28 +18,8 @@
 I'm a software engineer who is passionate and always curious about technology, and very happy to share knowledge and experience. Experienced as frontend engineer using ReactJs and React Native for Android and IOS platform.
 
 With the knowledge and experience that I have, I am currently guiding, training and equipping students with coding knowledge at the training ground / bootcamp so that they are ready and mature to enter the world of work.  
-  
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Enigma Cipta Humanika](https://enigmacamp.com)  
-  
-
-- ❓ Ask me about anything related technologies  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-<br/>  
-
+<br/>
 
 ## Languages and Tools  
 <div align="center">  
