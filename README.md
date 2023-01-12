@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm a software engineer who is passionate and always curious about technology, and very happy to share knowledge and experience. Experienced as frontend engineer using ReactJs and React Native for Android and IOS platform.
+I'm a software engineer and trainer who is passionate and always curious about technology, and very happy to share knowledge and experience. Experienced as frontend engineer using ReactJs and React Native for Android and IOS platform.
 
 With the knowledge and experience that I have, I am currently guiding, training and equipping students with coding knowledge at the training ground / bootcamp so that they are ready and mature to enter the world of work.  
 
