@@ -1,8 +1,5 @@
-## Hello 👋, I'm Muhammad Sulton!
+## Hello, I'm Muhammad Sulton!
 
-<a href="https://github.com/musulton" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://dev.to/musulton" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
@@ -15,9 +12,8 @@
 
 
 ### Glad to see you here!  
-I'm a software engineer and trainer who is passionate and always curious about technology, and very happy to share knowledge and experience. Experienced as frontend engineer using ReactJs and React Native for Android and IOS platform.
-
-With the knowledge and experience that I have, I am currently guiding, training and equipping students with coding knowledge at the training ground / bootcamp so that they are ready and mature to enter the world of work.  
+I'm a software engineer, always curious about technology. Experienced as frontend engineer and trainer.
+I've trained students in order to be ready to enter the world of work.
 
 <br/>
 
